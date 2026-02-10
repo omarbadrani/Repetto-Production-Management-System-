@@ -233,7 +233,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Omar Badrani**
 - 📧 Email: omarbadrani770@gmail.com
 - 📱 Phone: +216 92 117 418
-- 💼 LinkedIn: [Omar Badrani](https://www.linkedin.com/in/omarbadrani)
+- 💼 LinkedIn: [Omar Badrani](https://www.linkedin.com/in/omar-badrani)
 - 🐙 GitHub: [omarbadrani](https://github.com/omarbadrani)
 
 ## 🙏 Acknowledgments
